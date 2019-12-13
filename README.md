@@ -19,3 +19,11 @@ The website uses javascript calls to query the data the user selects. This is co
 Tableau Visualizations
 https://public.tableau.com/profile/gabriel.hernandez8655#!/vizhome/MissouriHighwayPatrolFatalities/FatalitiesbyCounty-Map
 
+
+
+
+
+
+
+
+![Image description](https://github.com/Ghernandez1991/Missouri-Highway-Patrol-Scraper/blob/master/images/image.PNG)
