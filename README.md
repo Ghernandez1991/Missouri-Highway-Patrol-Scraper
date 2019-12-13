@@ -14,5 +14,8 @@ The website uses javascript calls to query the data the user selects. This is co
 
 3-The application finds the xpath link and using a for loop, clicks thorough all the links. While inside the loop, we store the information in a list to manipulate later. 
 
-4-After the webscraping is complete(~5 mins), we can manipulate the list of all fatal accidents with respective gps/location data. After some data cleaning, we are able to get the data into a dataframe and to a csv. The visualizations are created in Tableau and shared below. 
+4-After the webscraping is complete(~5 mins), we can manipulate the list of all fatal accidents with respective gps/location data. After some data cleaning, we are able to get the data into a dataframe and to a csv. The visualizations are created in Tableau and shared below.
+
+Tableau Visualizations
+https://public.tableau.com/profile/gabriel.hernandez8655#!/vizhome/MissouriHighwayPatrolFatalities/FatalitiesbyCounty-Map
 
