@@ -19,6 +19,8 @@ The website uses javascript calls to query the data the user selects. This is co
 Tableau Visualizations
 https://public.tableau.com/profile/gabriel.hernandez8655#!/vizhome/MissouriHighwayPatrolFatalities/FatalitiesbyCounty-Map
 
+https://public.tableau.com/profile/gabriel.hernandez8655#!/vizhome/MissouriHighwayPatrol2/InjuryTypesbySex
+
 
 
 
